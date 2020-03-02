@@ -14,7 +14,7 @@ namespace Bucketlist_Business.Business
         public List<User> userLijst
         {
             get { return _userLijst; }
-            set { _userLijst = value; }
+            set { _userLijst = value;  }
         }
         //constructor
         //methods
